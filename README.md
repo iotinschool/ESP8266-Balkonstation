@@ -22,6 +22,7 @@ Die Balkonstation soll zwei Hauptzwecke erfüllen. Einerseits soll eine Wetterst
 
 - ArduinoIDE [https://www.arduino.cc/en/Main/Software]
 - Bibliotheken für den ESP8266 [https://arduino-hannover.de/2015/04/08/arduino-ide-mit-dem-esp8266/]
+- Account beim Dienst ThingSpeak [https://thingspeak.com/]
 
 ## Beschreibung der Software
 
