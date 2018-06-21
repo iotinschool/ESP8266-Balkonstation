@@ -8,7 +8,7 @@ Die Balkonstation soll zwei Hauptzwecke erfüllen. Einerseits soll eine Wetterst
 
 - ESP8266 Mikrocontroller [https://amzn.to/2JWbwMH]
 - DS18B20 Temperatursensor [https://amzn.to/2tnks2B]
-- SainSmart 5V 2 Kanal-Relais (ein Kanal würde auch reichen) [https://amzn.to/2I8AD9o]
+- SainSmart 5V 2 Kanal-Relais (ein Kanal würde auch reichen, dieses lag noch rum) [https://amzn.to/2I8AD9o]
 - YL-38/YL-69 Bodenfeuchtesensor [https://amzn.to/2K59Ood]
 - 5V / 2,3 W Wasserpumpe [https://amzn.to/2I8rqOp]
 - 2,5m Wasserschlauch [https://amzn.to/2tftFe6]
