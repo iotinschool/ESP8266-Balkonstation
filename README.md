@@ -16,6 +16,13 @@ Die Balkonstation soll zwei Hauptzwecke erfüllen. Einerseits soll eine Wetterst
 
 ## Hardwareaufbau
 
+
+
 ## Benötigte Programme
 
+- ArduinoIDE [https://www.arduino.cc/en/Main/Software]
+- Bibliotheken für den ESP8266 [https://arduino-hannover.de/2015/04/08/arduino-ide-mit-dem-esp8266/]
+
 ## Beschreibung der Software
+
+Das Programm startet, wählt sich in das hinterlegte WLAN ein und führt die Messung der Sensorsysteme durch. Anschließend werden die Messdaten zur Visualisierung an den Dienst Thingspeak geschickt. Wenn danach im Fall des Wasserbedarfs die Pumpe angesteuert und wieder abgestellt wurde, wird der ESP8266 für eine Stunde in den Deep-Sleep-Modus versetzt.
